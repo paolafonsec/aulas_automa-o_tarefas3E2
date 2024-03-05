@@ -10,3 +10,5 @@ for x in range(1,5):
         print(f"{nome} foi aprovado, com nota", nota)
     else:
         print(f"{nome} foi reprovado com nota {nota: .2f}")
+
+       
